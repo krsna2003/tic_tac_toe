@@ -1,2 +1,2 @@
-# tic_tac_toe
+# TICTACTOE GAME
 I developed a game tictactoe using C language
